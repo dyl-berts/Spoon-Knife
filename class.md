@@ -1,2 +1,14 @@
-Dylan Roberts
 Coursera Meta Database Engineer Professional Certificate
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
+Brown
+Red
